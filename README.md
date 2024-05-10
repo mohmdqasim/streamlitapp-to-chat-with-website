@@ -1,6 +1,5 @@
 # streamlitapp-to-chat-with-website
 
-# ask-multiple-documents-openai
 A streamlit Application to ask from Multiple Documents
 The application is live at this [link](https://appapp-to-chat-with-website-jgbbb3u4q5hsfmzqbwpnrx.streamlit.app/)
 
